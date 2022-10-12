@@ -41,7 +41,7 @@ Drivers irrespective of children with them prefer Restaurant(<20), Coffee House 
 Findings on temperature column using Plotly visualization:
 Drivers accept coupons as temperature increases. More drivers without children accept coupons than drivers with children as temperature increases.
 
-## Summary Findings of bar coupons acceptance rate:
+### Summary Findings of bar coupons acceptance rate:
 
 There is a high bar coupons acceptance rate of drivers with the following parameters:
     1) Passangers Type: Alone
@@ -51,7 +51,7 @@ There is a high bar coupons acceptance rate of drivers with the following parame
     5) Number of bar visits: 2
     6) Has children: 0
 
-## Summary Findings of Coffee House coupons acceptance rate:
+### Summary Findings of Coffee House coupons acceptance rate:
 
 There is a high Coffee House coupons acceptance rate of drivers with the following parameters:
 
