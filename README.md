@@ -32,6 +32,23 @@ Coupon attributes
 https://github.com/pkothamasu/ucb_assignment_5_1
 
 ### Summary of Findings:
+Findings on proportion of the total observations chose to accept the coupon: 
+Drivers are more likely prefer to accept coupons related to Restaurant(<20), Carry out & Take away and Coffee House.
+Drivers without children are more likely to accept coupon than drivers with children.
+
+Findings on coupon column using seaborn visualization:
+Drivers irrespective of children with them prefer Restaurant(<20), Coffee House and Carry out & Take away coupons equally.
+More drivers without children prefer Bar coupons than drivers with children
+
+Findings on temperature column using Plotly visualization:
+Drivers accept coupons as temperature increases
+More drivers without children accept coupons than drivers with children as temperature increases
+
+## Investigation on bar coupons:
+Findings on proportion of bar coupons accepted:
+More drivers who has average bar visits of 2 times a month accept coupons than average bar visits 6 and 10 times.  
+As number of average bar visits increases, driver's coupon acceptance rate decreases.
+
 
 
 ### Authors
