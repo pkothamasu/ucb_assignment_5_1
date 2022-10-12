@@ -31,7 +31,7 @@ Coupon attributes
 ### Github Link
 https://github.com/pkothamasu/ucb_assignment_5_1
 
-### Summary of General Findings:
+### Summary of general findings:
 Findings on proportion of the total observations chose to accept the coupon: 
 Drivers are more likely prefer to accept coupons related to Restaurant(<20), Carry out & Take away and Coffee House. Drivers without children are more likely to accept coupon than drivers with children.
 
